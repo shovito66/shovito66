@@ -1,9 +1,9 @@
 # Hi everyone :wave:
 
-I am now pursuing a Doctor of Philosophy (PhD) at Arizona State University and concurrently working as a Research Assistant at the  [Embedded Machine Intelligence Lab](https://ghasemzadeh.com/). The scope of my current research include machine learning, human behavior modeling using wearable sensors and time series forecasting. Formerly, I worked as a Software Engineer at [IQVIA](https://www.iqvia.com/), an international human data science company headquartered in North Carolina. Prior to that, I was an adjunct lecturer at EDU and also served as a RA. I completed my undergraduate studies from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/) in may 2022.
+I am now pursuing a Doctor of Philosophy (PhD) at Arizona State University and concurrently working as a Research Assistant at the  [Embedded Machine Intelligence Lab](https://ghasemzadeh.com/). The scope of my current research includes machine learning, human behavior modeling using wearable sensors and time series forecasting. Formerly, I worked as a Software Engineer at [IQVIA](https://www.iqvia.com/), an international human data science company headquartered in North Carolina. Before that, I was an Adjunct Lecturer at [East Delta University](https://www.eastdelta.edu.bd/) and also served as an RA at [eSRD Lab] (http://esrdlab.cse.buet.ac.bd/). I completed my undergraduate studies at [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/) in May 2022.
 
 
-## Quick overview
+## Quick Overview
 * GitHub stats:  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shovito66&hide=stars,issues,contribs&show_icons=true&theme=radical&count_private=true)
@@ -44,14 +44,14 @@ I am currently working on multiple research projects which include building pred
 ### Application Development
 
 - KPI [IQVIA]
-- Finance Tracker [IICT BUET]
+- Spondon mHealth App
 - College Database System
 - SkillNao
 
 
 ## What I'm currently learning 📚
 
-- Different predictive models for wearable sensor; self supervised and semi supervised learning for noisy data, different data augmentation methods for wearable sensors.
+- Different predictive models for wearable sensors; self-supervised and semi-supervised learning for noisy data, different data augmentation methods for wearable sensors.
 
 
 </details>
