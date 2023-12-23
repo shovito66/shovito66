@@ -28,7 +28,7 @@ I am currently working on multiple research projects which include building pred
 - <img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b761118c930ca4ec1368514abd87d7e3fd452fd865464&rid=giphy.gif&ct=s" height='15px' width='15px' > JavaScript
 - <img src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg" height='18px' width='18px' > Java
 - <img src="https://www.clipartmax.com/png/small/39-396037_big-image-python-gif-file-logo.png" height='15px' width='15px' > Python
-- <img src="./TensorFlow-Dark.svg" height='18px' width='18px'>  TensorFlow
+- <img src="./TensorFlow-Dark.svg" height='19px' width='19px'>  TensorFlow
 - <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" height='15px' width='15px' > Reactjs
 - <img src="https://www.offidocs.com/imageswebp/logohtmlhtml5.jpg.webp" height='18px' width='18px' > HTML, CSS
 - <img src="https://www.clipartmax.com/png/middle/89-894960_js-discord-bot-logo-node-js-and-react-js.png" height='18px' width='18px' > Node.js 
